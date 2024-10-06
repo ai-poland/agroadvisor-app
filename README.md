@@ -27,7 +27,7 @@ We use open source libraries to ensure a smooth and clean UI as well as a solid 
 - `react-native-maps`
 - `axios`
 - different expo sdk libraries
-- 
+
 ## Learn more
 
 To learn more about developing this app with Expo, look at the following resources:
